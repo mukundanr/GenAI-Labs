@@ -9,7 +9,7 @@ servers:
 
 # Paths for the API endpoints
 paths:
-  /appbwBF8gPYPqLNcE/Table%201:
+  /appAIFDcUkjRj8DVP/VertexCGTable:
     post:
     #   parameters:
     #       - in: query

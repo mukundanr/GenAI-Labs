@@ -50,7 +50,7 @@ paths:
                             description: Percentage of the asset made up of Bonds.
                          PropertyPercent:
                             type: number
-                            description: Percentage of the asset made up of Bonds.
+                            description: Percentage of the asset made up of Property.
                           
                     
       responses:

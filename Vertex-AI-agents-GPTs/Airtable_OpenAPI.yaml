@@ -36,21 +36,21 @@ paths:
                         properties:
                         # type: object
                         # properties:
-                          ContractName:
+                          AccountType:
                             type: string
-                            description: Name of the contract that is uploaded.
-                          ServiceProviderName:
+                            description: Asset Account Type
+                          AccountName:
                             type: string
-                            description: Name of the service provider of the contract.
-                          CustomerName:
-                            type: string
-                            description: Name of the customer of the contract.
-                          Contractstartdate:
-                            type: string
-                            description: Start date of the contract.
-                          Contractenddate:
-                            type: string
-                            description: Start date of the contract.
+                            description: Name of the Account.
+                          StocksPercent:
+                            type: number
+                            description: Percentage of the asset made up of Stocks.
+                          BondsPercent:
+                            type: number
+                            description: Percentage of the asset made up of Bonds.
+                         PropertyPercent:
+                            type: number
+                            description: Percentage of the asset made up of Bonds.
                           
                     
       responses:

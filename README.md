@@ -11,3 +11,11 @@ Projects that I worked on for **Generative AI Product Management** certification
   * python-dotenv: This is used to load all the keys in the environment from a .env file
   * PyMuPDF: This package is used for easy PDF manipulation.
   * tiktoken: This package is used to calculate the tokens in a text
+    
+2. Vertex AI agents
+   * This is a simple mulit-agent workflow using Vertex AI.
+   * The Main Agent `Car Repair Agent` will call `CRM Agent` that will use the Airtable tool to save data in the table. Also the Car Repair Agent will be a interactive Car
+     Mechanic that can use the Places API to get nearest Garage information.
+   ![image](https://github.com/initmahesh/MLAI-community-labs/assets/72710483/e4c870de-922d-4b11-b7ee-af371310388c)
+
+

@@ -1,1 +1,1 @@
-Projects that I worked on for "AI Product Management" certification
+Projects that I worked on for **Generative AI Product Management** certification
